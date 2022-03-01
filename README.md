@@ -1,1 +1,1 @@
-Just a landing page for INAQS code and documentation.
+Just a landing page for INAQS code and documentation; see it live at [inaqs.github.io](https://inaqs.github.io)
